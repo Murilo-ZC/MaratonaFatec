@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555003364 source:c:\users\murilo\desktop\maratona_11_04_2019\primeiro_teste_cpp\main.cpp
+	<iostream>
+	<iomanip>
+
